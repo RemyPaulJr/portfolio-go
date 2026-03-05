@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS projects;
+DROP TABLE IF EXISTS work_experience;
+DROP TABLE IF EXISTS skills;
+DROP TABLE IF EXISTS certifications;
+DROP TABLE IF EXISTS blog_posts;
+DROP TABLE IF EXISTS skill_project;
+DROP TABLE IF EXISTS skill_experience;
+DROP TABLE IF EXISTS skill_blog;
+DROP TABLE IF EXISTS project_blog;
